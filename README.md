@@ -1,4 +1,4 @@
-# API (Interface de Programação de Aplicações) de Petshop
+# API (Interface de Programação de Aplicações) de uma Petshop
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 Este projeto é uma Plataforma que tem a finalidade de gerenciar serviços e vendas de proutos voltados para o mundo Pet utilizando JAVA e Spring Boot, conforme solicitado nas aulas práticas do Curso da ROCKETSEAT - BACK END JAVA (Spring Boot), para obter maior conhecimento na linguagem.
